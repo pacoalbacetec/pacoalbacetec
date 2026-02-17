@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**pacoalbacetec/pacoalbacetec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get yo# Hi, I'm Paco 👋
+# Hi, I'm Paco 👋
 
 CS Student at **Universidad de Murcia** (2028) · Interested in systems programming, compilers, and algorithms · Erasmus in Lisbon 2026–27
 
