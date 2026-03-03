@@ -33,9 +33,10 @@ CS Student at **Universidad de Murcia** (2028) · Interested in systems programm
 
 ## 🔭 What I'm working on
 
-- 🔧 A compiler built from scratch in C++
+- 🔧 A compiler built from scratch in C using Flex and Bison
 - 🌐 Network programming projects
 - 📚 Algorithm practice on LeetCode
+- 🗺️ A low-level route planner for Lisbon in C++ — custom PBF parser, graph construction from OpenStreetMap data, and A* pathfinding
 
 ---
 
